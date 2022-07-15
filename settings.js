@@ -19,20 +19,20 @@ global.APIKeys = {
 }
 
 //customize settings\\
-global.owner = ['27686881509'] //Owner Number in alive msg
-global.premium = ['27686881509'] //Owner Number in info
-global.ownernomer = '27686881509' // Owner Number <<<
-global.ownername = '👩‍💻CYBERXKID👩‍💻' //Owner Name
-global.botname = '🧚‍♂️ALEXA QUEEN🧚‍♂️' //Bot Name
-global.footer = '©-𝙲𝚈𝙱𝙴𝚁𝚇𝙺𝙸𝙳.' //In List Menu
-global.ig = 'https://github.com/CYBERXKID'
+global.owner = ['94778639556'] //Owner Number in alive msg
+global.premium = ['94778639556'] //Owner Number in info
+global.ownernomer = '94778639556' // Owner Number <<<
+global.ownername = '👩‍💻LAKIYA MD👩‍💻' //Owner Name
+global.botname = '🧚‍♂️PATHUM MD🧚‍♂️' //Bot Name
+global.footer = '©-𝗣𝗔𝗧𝗛𝗨𝗠 𝗠𝗗.' //In List Menu
+global.ig = 'https://github.com/Imashapathum2003'
 global.region = 'India, South India, Kerala'
-global.sc = 'https://github.com/CYBERXKID/Alexa-Queen-MD'
-global.myweb = 'https://youtube.com/channel/UC4oTs5DILGmK1EgIJ5XIyZw'
-global.packname = '🧚‍♂️ALEXA QUEEN🧚‍♂️' //Bot Pacage Name
-global.author = '👩‍💻CYBERXKID👩‍💻' //Author Name
+global.sc = 'https://github.com/Imashapathum2003/Alexa-Queen-MD'
+global.myweb = 'https://youtube.com/channel/UCgW7PiHeyTmt-CZmZsRyOPg'
+global.packname = '🧚‍♂️𝗣𝗔𝗧𝗛𝗨𝗠 𝗠𝗗🧚‍♂️' //Bot Pacage Name
+global.author = '👩‍💻PATHUM MD👩‍💻' //Author Name
 global.sessionName = 'session' //Session Name!
-global.prefa = ['','!','.','👩‍💻','📱','❤️'] //Command Prefix eg:(.alive ,alive 😂alive)
+global.prefa = ['','!','.','👩‍💻','🐰','❤️'] //Command Prefix eg:(.alive ,alive 😂alive)
 global.sp = '⭔' //A Charactor
 global.mess = {// CUSTOMIZE WITH YOUR LANGUAGE
     success: 'Done ✓',
